@@ -1,0 +1,8 @@
+/*body{
+    background: red;
+}*/
+
+.container{
+    width: 400px;
+    border: 2px solid red;
+}
